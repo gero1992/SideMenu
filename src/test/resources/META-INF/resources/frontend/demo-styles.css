@@ -1,0 +1,14 @@
+#sideContainer{
+    min-width: 15rem;
+    height: 100%;
+    box-shadow: var(--lumo-box-shadow-s);
+    padding: var(--lumo-space-xs);
+    padding-bottom: 0;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#sideContainer.collapsed{
+    min-width: max-content;
+}

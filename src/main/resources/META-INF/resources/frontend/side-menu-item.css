@@ -1,0 +1,16 @@
+side-menu-item {
+    --item-padding: var(--lumo-space-m);
+    --item-content-padding: var(--lumo-space-m);
+    --icon-height: var(--lumo-icon-size-s);
+    --icon-width: var(--lumo-icon-size-s);
+    --item-selected-color: var(--lumo-primary-color-10pct);
+    --item-selected-color-text: var(--lumo-primary-text-color);
+    --item-color-active: var(--lumo-contrast-20pct);
+    --item-color-hover: var(--lumo-contrast-10pct);
+    --font-family: var(--lumo-font-family);
+    --item-text-color: var(--lumo-body-text-color);
+    --item-icon-color: var(--lumo-tertiary-text-color);
+    --overlay-background-color: var(--lumo-base-color);
+    --overlay-box-shadow: var(--lumo-box-shadow-m);
+    --overlay-background-image: linear-gradient(var(--lumo-tint-5pct), var(--lumo-tint-5pct));
+}
