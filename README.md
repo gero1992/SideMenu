@@ -1,6 +1,8 @@
 # SideMenu
 side-menu for Vaadin-Flow
 
+[Live demo](https://side-menu.herokuapp.com/)
+
 ## How to use
 
 ## How to start the demo
