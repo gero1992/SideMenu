@@ -1,4 +1,4 @@
-package org.vaadin.gero1992;
+package org.vaadin.addons.gero1992;
 
 import java.util.Arrays;
 

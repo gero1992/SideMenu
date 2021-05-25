@@ -1,4 +1,4 @@
-package org.vaadin.gero1992;
+package org.vaadin.addons.gero1992;
 
 import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.button.Button;

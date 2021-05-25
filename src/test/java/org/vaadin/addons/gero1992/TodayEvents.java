@@ -1,9 +1,9 @@
-package org.vaadin.gero1992;
+package org.vaadin.addons.gero1992;
 
 import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.router.Route;
 
-@Route(value = "news",
+@Route(value = "today",
         layout = MainLayout.class)
-public class News extends Div {
+public class TodayEvents extends Div {
 }
